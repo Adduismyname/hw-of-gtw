@@ -1,0 +1,79 @@
+.body_background 
+{
+	background-image: url("InShot_20201210_143400348.jpg");
+	background-repeat: no-repeat;
+	background-image: cover;
+   
+}
+	#player1_input
+	{
+		margin-top: 377px;
+		background: pink;
+		float: none;
+		padding: 10px;
+		border-radius: 15px;
+		width: 399px ;
+
+	}
+	#player2_input
+	{
+		
+		background: pink;
+		float: none;
+		padding: 10px;
+		border-radius: 15px;
+		width: 399px ;
+
+	}
+	.bunton {
+		background-image: linear-gradient(to bottom right, rgb(143, 255, 255),rgb(176, 176, 255), white);
+	}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	color: rgb(243, 108, 19);
+	font: bold; 
+	font-size: 22px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+.whynotbutton
+{
+	background-image: url("yeyeyeyey.jpg");
+	background-repeat: no-repeat;
+	background-image: cover;
+}
+#question_turn
+{
+color: mediumaquamarine;
+}
+#answer_turn
+{
+color: mediumaquamarine;
+}
+#player1_score, #player2_score
+{
+	color: rgb(231, 0, 108);
+	font-size: 20px;
+}
+#send_button
+{
+	background-image: linear-gradient( purple,white);
+}
